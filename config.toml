@@ -1,0 +1,139 @@
+baseURL = 'http://hyperlearn.in/blog/'
+languageCode = 'en-us'
+title = 'Hyperlearn Blog'
+theme = 'PaperMod'
+
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+#googleAnalytics = "UA-123-45"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+# env = "production"
+title = "Hyperlearn Blog"
+description = "Here we discuss all things tech"
+keywords = [ "Hyperlearn", "Tech", "Mentoring", "1x1", "Tech Mentorship" ]
+author = "Abhijeet De Sarkar"
+images = [ "<link or path of image for opengraph, twitter-cards>" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  # [params.assets]
+  # favicon = "<link / abs url>"
+  # favicon16x16 = "<link / abs url>"
+  # favicon32x32 = "<link / abs url>"
+  # apple_touch_icon = "<link / abs url>"
+  # safari_pinned_tab = "<link / abs url>"
+
+  [params.label]
+  text = "Hyperlearn"
+  # icon = "/apple-touch-icon.png"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = false
+  title = "ExampleSite"
+  subtitle = "This is subtitle"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "Hello there 👋"
+  Content = "Welcome to Hyperlearn Blog"
+
+  # [[params.socialIcons]]
+  # name = "twitter"
+  # url = "https://twitter.com/"
+
+  # [[params.socialIcons]]
+  # name = "stackoverflow"
+  # url = "https://stackoverflow.com"
+
+  # [[params.socialIcons]]
+  # name = "github"
+  # url = "https://github.com/"
+
+# [params.analytics.google]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.bing]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.yandex]
+# SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/<path_to_repo>/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = 10
+
+[[menu.main]]
+identifier = "login"
+name = "Login"
+url = "https://hyperlearn.in/login"
+weight = 20
+
+[[menu.main]]
+identifier = "becomeMentor"
+name = "Become a Mentor"
+url = "https://hyperlearn.in/MentorSignup"
+weight = 30
+
+
+# [[menu.main]]
+#   name = 'getting started'
+#   post = "<span class='alert'>New!</span>"
+#   pre = "<i class='fa fa-road'></i>"
+#   url = '/getting-started/'
+#   weight = -100
