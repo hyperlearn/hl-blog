@@ -1,4 +1,4 @@
-baseURL = 'http://hyperlearn.in/blog/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Hyperlearn Blog'
 theme = 'PaperMod'
