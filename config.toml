@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = '/blog/'
 languageCode = 'en-us'
 title = 'Hyperlearn Blog'
 theme = 'PaperMod'
@@ -36,7 +36,6 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
-publishDir = "./public/blog"
 
   # [params.assets]
   # favicon = "<link / abs url>"
