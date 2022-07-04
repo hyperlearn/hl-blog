@@ -17,7 +17,11 @@
       <pubDate>Mon, 04 Jul 2022 11:25:04 +0530</pubDate>
       
       <guid>/blog/posts/using-localstack-emulate-aws-s3-and-sqs-with-node/</guid>
-      <description></description>
+      <description>Some time back, I was teaching Node.js and we were covering AWS technologies like s3 and sqs. But the thing is most students didn’t have access to AWS and to try it out.
+So, here’s how we can try out AWS services like: S3 and SQS.
+Installing Localstack on your system Localstack repo: https://github.com/localstack/localstack
+We’ll need python3, pip3 and docker to install localstack on our system.
+ python3: https://www.python.org/downloads/ pip3: https://pip.</description>
     </item>
     
     <item>
