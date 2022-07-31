@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 11:25:04 +0530</lastBuildDate><atom:link href="/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 20:23:46 +0530</lastBuildDate><atom:link href="/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Supercharge Your Mentoring With Hyperlearn</title>
+      <link>/blog/posts/how-to-supercharge-your-mentoring-with-hyperlearn/</link>
+      <pubDate>Sun, 31 Jul 2022 20:23:46 +0530</pubDate>
+      
+      <guid>/blog/posts/how-to-supercharge-your-mentoring-with-hyperlearn/</guid>
+      <description>Managing mentorship with a full-time job, is a very tedious task. You cannot just go with a ‘spray and pray’ approach, every time. Occasionally it needs a personal touch.
+Not to mention, helping people to become their best selves is already a complicated thing. And, adding to it, are the following problems, which mentors face:-
+ How to show and present your services to your prospective customers Scheduling calls with your mentees and striking a healthy work-life balance Seamlessly getting paid Collecting leads of prospective students  And, this is where we come and save a mentor’s day.</description>
+    </item>
+    
     <item>
       <title>Using Localstack Emulate AWS S3 and SQS With Node</title>
       <link>/blog/posts/using-localstack-emulate-aws-s3-and-sqs-with-node/</link>
