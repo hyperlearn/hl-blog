@@ -2,8 +2,7 @@
 title: "How to Supercharge Your Mentoring With Hyperlearn"
 date: 2022-07-31T20:23:46+05:30
 draft: false
-authors:
-  - Abhinav De Sarkar (abhinavdesarkar@gmail.com)
+author: ["Abhinav De Sarkar (abhinavdesarkar@gmail.com)"]
 ---
 
 Managing mentorship with a full-time job, is a very tedious task. You cannot just go with a ‘spray and pray’ approach, every time. Occasionally it needs a personal touch.
