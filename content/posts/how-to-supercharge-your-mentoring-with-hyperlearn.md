@@ -29,7 +29,7 @@ Well, Let's get started with the product.
 
 # Mentor Profile
 
-![Mentor Profile Image](/mentor_profile.png)
+![Mentor Profile Image](/blog/mentor_profile.png)
 
 A mentor profile will have the following things :
 
@@ -44,7 +44,7 @@ A mentor profile will have the following things :
 
 # Mentor Dashboard
 
-![Mentor Dashboard](/mentor_dashboard.png)
+![Mentor Dashboard](/blog/mentor_dashboard.png)
 
 1. **Complete Your Profile**: Check, the things you missed out on while creating a profile, and complete them. You will get a score of 100%, once you are done with all the necessary details.
 2. **Stats**: Easily track all your upcoming/ pending sessions and earnings at the same time.
