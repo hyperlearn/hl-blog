@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Hyperlearn Blog</title>
+    <link>/blog/posts/</link>
+    <description>Recent content in Posts on Hyperlearn Blog</description>
+    <image>
+      <url>/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jul 2022 11:25:04 +0530</lastBuildDate><atom:link href="/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Localstack Emulate AWS S3 and SQS With Node</title>
+      <link>/blog/posts/using-localstack-emulate-aws-s3-and-sqs-with-node/</link>
+      <pubDate>Mon, 04 Jul 2022 11:25:04 +0530</pubDate>
+      
+      <guid>/blog/posts/using-localstack-emulate-aws-s3-and-sqs-with-node/</guid>
+      <description>Some time back, I was teaching Node.js and we were covering AWS technologies like s3 and sqs. But the thing is most students didn’t have access to AWS and to try it out.
+So, here’s how we can try out AWS services like: S3 and SQS.
+Installing Localstack on your system Localstack repo: https://github.com/localstack/localstack
+We’ll need python3, pip3 and docker to install localstack on our system.
+ python3: https://www.python.org/downloads/ pip3: https://pip.</description>
+    </item>
+    
+    <item>
+      <title>Building Cli Based Task Tracker in Rust</title>
+      <link>/blog/posts/building-cli-based-task-tracker-in-rust/</link>
+      <pubDate>Tue, 01 Mar 2022 17:53:06 +0530</pubDate>
+      
+      <guid>/blog/posts/building-cli-based-task-tracker-in-rust/</guid>
+      <description>Let&amp;rsquo;s build a Task Board in Rust
+Our Goals
+   It should have 3 lists pending, In progress, done   You should be able to add new tasks, which should get added in pending list You should be able to move items from pending to in Progress or in progress to Done&amp;hellip;.move from In Progress to pending or done to pending you should be able to list all the tasks  </description>
+    </item>
+    
+  </channel>
+</rss>
