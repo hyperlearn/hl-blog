@@ -2,6 +2,7 @@
 title: "How to Accelerate Your Career by Connecting With Mentors on Hyperlearn"
 date: 2022-08-15T21:49:33+05:30
 draft: false
+author: ["Abhinav De Sarkar (abhinavdesarkar@gmail.com)"]
 ---
 
 Before you start looking for a mentor, we ask you a simple question - why get a mentor, at all?
