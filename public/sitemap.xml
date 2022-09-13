@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/posts/how-to-accelerate-your-career-by-connecting-with-mentors-on-hyperlearn/</loc>
+    <lastmod>2022-08-15T21:49:33+05:30</lastmod>
+  </url><url>
     <loc>/blog/</loc>
-    <lastmod>2022-07-04T11:25:04+05:30</lastmod>
+    <lastmod>2022-08-15T21:49:33+05:30</lastmod>
   </url><url>
     <loc>/blog/posts/</loc>
-    <lastmod>2022-07-04T11:25:04+05:30</lastmod>
+    <lastmod>2022-08-15T21:49:33+05:30</lastmod>
+  </url><url>
+    <loc>/blog/posts/how-to-supercharge-your-mentoring-with-hyperlearn/</loc>
+    <lastmod>2022-07-31T20:23:46+05:30</lastmod>
   </url><url>
     <loc>/blog/posts/using-localstack-emulate-aws-s3-and-sqs-with-node/</loc>
     <lastmod>2022-07-04T11:25:04+05:30</lastmod>

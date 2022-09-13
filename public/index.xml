@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyperlearn Blog</title>
     <link>/blog/</link>
     <description>Recent content on Hyperlearn Blog</description>
-    <image>
-      <url>/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 11:25:04 +0530</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 21:49:33 +0530</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Accelerate Your Career by Connecting With Mentors on Hyperlearn</title>
+      <link>/blog/posts/how-to-accelerate-your-career-by-connecting-with-mentors-on-hyperlearn/</link>
+      <pubDate>Mon, 15 Aug 2022 21:49:33 +0530</pubDate>
+      
+      <guid>/blog/posts/how-to-accelerate-your-career-by-connecting-with-mentors-on-hyperlearn/</guid>
+      <description>Before you start looking for a mentor, we ask you a simple question - why get a mentor, at all?
+Well, Sir Issac Newton once said- “If I have seen further, it is by standing on the shoulders of giants.”
+To put it simply, he is referring to his mentors, predecessors and the people who inspired and helped him solve his doubt in his notable career.
+So, to get optimal results, you clearly must use the insights of an experienced person, who went through a process to gain valuable results and knowledge.</description>
+    </item>
+    
+    <item>
+      <title>How to Supercharge Your Mentoring With Hyperlearn</title>
+      <link>/blog/posts/how-to-supercharge-your-mentoring-with-hyperlearn/</link>
+      <pubDate>Sun, 31 Jul 2022 20:23:46 +0530</pubDate>
+      
+      <guid>/blog/posts/how-to-supercharge-your-mentoring-with-hyperlearn/</guid>
+      <description>Managing mentorship with a full-time job, is a very tedious task. You cannot just go with a ‘spray and pray’ approach, every time. Occasionally it needs a personal touch.
+Not to mention, helping people to become their best selves is already a complicated thing. And, adding to it, are the following problems, which mentors face:-
+How to show and present your services to your prospective customers Scheduling calls with your mentees and striking a healthy work-life balance Seamlessly getting paid Collecting leads of prospective students And, this is where we come and save a mentor’s day.</description>
+    </item>
+    
     <item>
       <title>Using Localstack Emulate AWS S3 and SQS With Node</title>
       <link>/blog/posts/using-localstack-emulate-aws-s3-and-sqs-with-node/</link>
@@ -21,7 +40,7 @@
 So, here’s how we can try out AWS services like: S3 and SQS.
 Installing Localstack on your system Localstack repo: https://github.com/localstack/localstack
 We’ll need python3, pip3 and docker to install localstack on our system.
- python3: https://www.python.org/downloads/ pip3: https://pip.</description>
+python3: https://www.python.org/downloads/ pip3: https://pip.pypa.io/en/stable/installation/ docker: https://docs.</description>
     </item>
     
     <item>
@@ -32,7 +51,7 @@ We’ll need python3, pip3 and docker to install localstack on our system.
       <guid>/blog/posts/building-cli-based-task-tracker-in-rust/</guid>
       <description>Let&amp;rsquo;s build a Task Board in Rust
 Our Goals
-   It should have 3 lists pending, In progress, done   You should be able to add new tasks, which should get added in pending list You should be able to move items from pending to in Progress or in progress to Done&amp;hellip;.move from In Progress to pending or done to pending you should be able to list all the tasks  </description>
+It should have 3 lists pending, In progress, done You should be able to add new tasks, which should get added in pending list You should be able to move items from pending to in Progress or in progress to Done&amp;hellip;.move from In Progress to pending or done to pending you should be able to list all the tasks </description>
     </item>
     
   </channel>
