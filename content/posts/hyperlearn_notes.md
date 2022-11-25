@@ -45,7 +45,7 @@ Well, these details enhance your traction and ensure that you are addressing the
 
 You can do this primarily by:-
 
-**Leading your audience to the webinar/sessions**
+## Leading your audience to the webinar/sessions
 
 Now, you can host your webinars or sessions on Hyperlearn. 
 
@@ -56,6 +56,10 @@ So, let's say you made a webinar/ session on a topic but now what? Do you have t
 This is where those details about your audience come in handy!
 
 Start upselling your webinars/ sessions to such an audience, remember, webinars are short and to the point, so if students want to further venture into the subject, they can book up a session with you in [Hyperlearn.in](http://Hyperlearn.in) , this ensures you get traffic & traction while students the skills and new insights.
+
+## Create What Learners Find Interesting
+
+We can also track the usage of our cards, allowing you to understand how learners are using the notes and find out, what topics are more prevalent (This feature is coming soon). Where learners are spending more time? or what they find interesting. This helps the mentors to tailor their courses effectively & accordingly.
 
 Ok, now let's address the elephant in the room!!
 
