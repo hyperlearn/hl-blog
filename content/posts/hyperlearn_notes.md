@@ -65,7 +65,7 @@ Well, Let's get into it!
 
 # How To Create Your Notes With Hyperlearn?
 
-![Mentor Dashborad](/blog/Mentor_Dashboard.png)
+![Mentor Dashborad](/blog/Mentor_Dashboard_(1).png)
 
 After you have successfully created a Hyperlearn account, you can easily make notes from your mentor dashboard.
 
